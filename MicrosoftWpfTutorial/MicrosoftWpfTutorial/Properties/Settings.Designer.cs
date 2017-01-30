@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MicrosoftTutorialWpf1.Properties
+namespace MicrosoftWpfTutorial.Properties
 {
 
 
