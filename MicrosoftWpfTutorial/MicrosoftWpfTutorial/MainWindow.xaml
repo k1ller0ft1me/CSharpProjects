@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center"  RenderTransformOrigin="4.08,2.312" Margin="105,53,87,234" TextWrapping="Wrap" Text="Select a message option and then choose the Display button." VerticalAlignment="Center" Width="325"/>
+
     </Grid>
 </Window>
